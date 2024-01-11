@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Timothy Aurelio Cnnavaro</h1>
+<h1 align="center">Hi 👋, I'm Timothy Aurelio Cannavaro</h1>
 <h3 align="center">I'm a developer from Indonesia, with the interest for backend development</h3>
 
-- 🌱 I’m currently learning **on Generasi GIGIH 3.0**
-
+- 🌱 I’m currently doing some **personal project**
+- 
 - 📫 How to reach me **varomnrg@gmail.com**
 
 Other project : 
